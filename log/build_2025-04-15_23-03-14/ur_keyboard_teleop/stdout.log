@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info
+writing ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/PKG-INFO
+writing dependency_links to ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/dependency_links.txt
+writing entry points to ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/entry_points.txt
+writing requirements to ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/requires.txt
+writing top-level names to ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/top_level.txt
+writing manifest file '../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/SOURCES.txt'
+reading manifest file '../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/SOURCES.txt'
+writing manifest file '../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/channaveer/Project/build/ur_keyboard_teleop/build
+creating /home/channaveer/Project/build/ur_keyboard_teleop/build/lib
+creating /home/channaveer/Project/build/ur_keyboard_teleop/build/lib/ur_keyboard_teleop
+copying ur_keyboard_teleop/__init__.py -> /home/channaveer/Project/build/ur_keyboard_teleop/build/lib/ur_keyboard_teleop
+copying ur_keyboard_teleop/keyboard_command_processor.py -> /home/channaveer/Project/build/ur_keyboard_teleop/build/lib/ur_keyboard_teleop
+running install
+running install_lib
+creating /home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages/ur_keyboard_teleop
+copying /home/channaveer/Project/build/ur_keyboard_teleop/build/lib/ur_keyboard_teleop/__init__.py -> /home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages/ur_keyboard_teleop
+copying /home/channaveer/Project/build/ur_keyboard_teleop/build/lib/ur_keyboard_teleop/keyboard_command_processor.py -> /home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages/ur_keyboard_teleop
+byte-compiling /home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages/ur_keyboard_teleop/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages/ur_keyboard_teleop/keyboard_command_processor.py to keyboard_command_processor.cpython-310.pyc
+running install_data
+creating /home/channaveer/Project/install/ur_keyboard_teleop/share/ament_index
+creating /home/channaveer/Project/install/ur_keyboard_teleop/share/ament_index/resource_index
+creating /home/channaveer/Project/install/ur_keyboard_teleop/share/ament_index/resource_index/packages
+copying resource/ur_keyboard_teleop -> /home/channaveer/Project/install/ur_keyboard_teleop/share/ament_index/resource_index/packages
+copying package.xml -> /home/channaveer/Project/install/ur_keyboard_teleop/share/ur_keyboard_teleop
+running install_egg_info
+Copying ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info to /home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages/ur_keyboard_teleop-0.0.1-py3.10.egg-info
+running install_scripts
+Installing keyboard_command_processor script to /home/channaveer/Project/install/ur_keyboard_teleop/lib/ur_keyboard_teleop
+writing list of installed files to '/home/channaveer/Project/build/ur_keyboard_teleop/install.log'

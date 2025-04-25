@@ -1,0 +1,44 @@
+[0.103s] Invoking command in '/home/channaveer/Project/build/ur_teleop_config': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake /home/channaveer/Project/src/ur_teleop_config -DCMAKE_INSTALL_PREFIX=/home/channaveer/Project/install/ur_teleop_config
+[0.274s] -- The C compiler identification is GNU 11.4.0
+[0.379s] -- The CXX compiler identification is GNU 11.4.0
+[0.406s] -- Detecting C compiler ABI info
+[0.515s] -- Detecting C compiler ABI info - done
+[0.521s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.521s] -- Detecting C compile features
+[0.521s] -- Detecting C compile features - done
+[0.524s] -- Detecting CXX compiler ABI info
+[0.597s] -- Detecting CXX compiler ABI info - done
+[0.602s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.602s] -- Detecting CXX compile features
+[0.603s] -- Detecting CXX compile features - done
+[0.604s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.723s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.851s] -- Configuring done
+[0.853s] -- Generating done
+[0.854s] -- Build files have been written to: /home/channaveer/Project/build/ur_teleop_config
+[0.889s] Invoked command in '/home/channaveer/Project/build/ur_teleop_config' returned '0': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake /home/channaveer/Project/src/ur_teleop_config -DCMAKE_INSTALL_PREFIX=/home/channaveer/Project/install/ur_teleop_config
+[0.920s] Invoking command in '/home/channaveer/Project/build/ur_teleop_config': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake --build /home/channaveer/Project/build/ur_teleop_config -- -j8 -l8
+[1.250s] Invoked command in '/home/channaveer/Project/build/ur_teleop_config' returned '0': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake --build /home/channaveer/Project/build/ur_teleop_config -- -j8 -l8
+[1.251s] Invoking command in '/home/channaveer/Project/build/ur_teleop_config': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake --install /home/channaveer/Project/build/ur_teleop_config
+[1.254s] -- Install configuration: ""
+[1.254s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config//launch
+[1.254s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config//launch/ur_robotiq_gazebo.launch.py
+[1.254s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config//launch/ur_gazebo.launch.py
+[1.254s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config//config
+[1.254s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config//config/ur_controllers.yaml
+[1.255s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ament_index/resource_index/package_run_dependencies/ur_teleop_config
+[1.255s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ament_index/resource_index/parent_prefix_path/ur_teleop_config
+[1.255s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/environment/ament_prefix_path.sh
+[1.256s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/environment/ament_prefix_path.dsv
+[1.256s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/environment/path.sh
+[1.256s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/environment/path.dsv
+[1.256s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/local_setup.bash
+[1.256s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/local_setup.sh
+[1.257s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/local_setup.zsh
+[1.257s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/local_setup.dsv
+[1.258s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/package.dsv
+[1.259s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ament_index/resource_index/packages/ur_teleop_config
+[1.263s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/cmake/ur_teleop_configConfig.cmake
+[1.263s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/cmake/ur_teleop_configConfig-version.cmake
+[1.263s] -- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/package.xml
+[1.267s] Invoked command in '/home/channaveer/Project/build/ur_teleop_config' returned '0': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake --install /home/channaveer/Project/build/ur_teleop_config

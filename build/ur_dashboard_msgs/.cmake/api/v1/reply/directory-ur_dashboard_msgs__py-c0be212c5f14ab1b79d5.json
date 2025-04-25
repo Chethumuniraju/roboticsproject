@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "ur_dashboard_msgs__py",
+		"source" : "/home/channaveer/Project/build/ur_dashboard_msgs/ur_dashboard_msgs__py"
+	}
+}

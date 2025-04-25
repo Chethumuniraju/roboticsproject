@@ -1,0 +1,38 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/channaveer/Project/build/ur_teleop_config
+-- Install configuration: ""
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config//launch
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config//launch/ur_robotiq_gazebo.launch.py
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config//launch/ur_gazebo.launch.py
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config//config
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config//config/ur_controllers.yaml
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ament_index/resource_index/package_run_dependencies/ur_teleop_config
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ament_index/resource_index/parent_prefix_path/ur_teleop_config
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/environment/ament_prefix_path.sh
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/environment/ament_prefix_path.dsv
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/environment/path.sh
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/environment/path.dsv
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/local_setup.bash
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/local_setup.sh
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/local_setup.zsh
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/local_setup.dsv
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/package.dsv
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ament_index/resource_index/packages/ur_teleop_config
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/cmake/ur_teleop_configConfig.cmake
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/cmake/ur_teleop_configConfig-version.cmake
+-- Installing: /home/channaveer/Project/install/ur_teleop_config/share/ur_teleop_config/package.xml

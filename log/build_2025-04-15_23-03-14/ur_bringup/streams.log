@@ -1,0 +1,66 @@
+[0.198s] Invoking command in '/home/channaveer/Project/build/ur_bringup': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble LD_LIBRARY_PATH=/home/channaveer/Project/install/ur_controllers/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/channaveer/Project/src/Universal_Robots_ROS2_Driver/ur_bringup -DCMAKE_INSTALL_PREFIX=/home/channaveer/Project/install/ur_bringup
+[0.512s] -- The C compiler identification is GNU 11.4.0
+[0.611s] -- The CXX compiler identification is GNU 11.4.0
+[0.676s] -- Detecting C compiler ABI info
+[0.854s] -- Detecting C compiler ABI info - done
+[0.884s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.884s] -- Detecting C compile features
+[0.884s] -- Detecting C compile features - done
+[0.912s] -- Detecting CXX compiler ABI info
+[1.035s] -- Detecting CXX compiler ABI info - done
+[1.042s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.042s] -- Detecting CXX compile features
+[1.043s] -- Detecting CXX compile features - done
+[1.195s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.538s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.385s] -- Configuring done
+[2.390s] -- Generating done
+[2.394s] -- Build files have been written to: /home/channaveer/Project/build/ur_bringup
+[2.423s] Invoked command in '/home/channaveer/Project/build/ur_bringup' returned '0': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble LD_LIBRARY_PATH=/home/channaveer/Project/install/ur_controllers/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/channaveer/Project/src/Universal_Robots_ROS2_Driver/ur_bringup -DCMAKE_INSTALL_PREFIX=/home/channaveer/Project/install/ur_bringup
+[2.424s] Invoking command in '/home/channaveer/Project/build/ur_bringup': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble LD_LIBRARY_PATH=/home/channaveer/Project/install/ur_controllers/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/channaveer/Project/build/ur_bringup -- -j8 -l8
+[2.511s] Invoked command in '/home/channaveer/Project/build/ur_bringup' returned '0': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble LD_LIBRARY_PATH=/home/channaveer/Project/install/ur_controllers/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/channaveer/Project/build/ur_bringup -- -j8 -l8
+[2.512s] Invoking command in '/home/channaveer/Project/build/ur_bringup': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble LD_LIBRARY_PATH=/home/channaveer/Project/install/ur_controllers/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/channaveer/Project/build/ur_bringup
+[2.517s] -- Install configuration: ""
+[2.517s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/config
+[2.518s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/config/ur5_update_rate.yaml
+[2.518s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/config/ur16e_update_rate.yaml
+[2.519s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/config/ur10_update_rate.yaml
+[2.520s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/config/ur_controllers.yaml
+[2.520s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/config/ur3e_update_rate.yaml
+[2.521s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/config/ur3_update_rate.yaml
+[2.521s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/config/ur5e_update_rate.yaml
+[2.522s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/config/test_goal_publishers_config.yaml
+[2.522s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/config/test_velocity_goal_publishers_config.yaml
+[2.523s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/config/ur10e_update_rate.yaml
+[2.523s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch
+[2.524s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/ur3.launch.py
+[2.524s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/ur12e.launch.py
+[2.525s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/ur16e.launch.py
+[2.525s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/ur10.launch.py
+[2.526s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/ur3e.launch.py
+[2.526s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/ur10e.launch.py
+[2.527s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/test_joint_trajectory_controller.launch.py
+[2.527s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/test_forward_velocity_controller.launch.py
+[2.528s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/ur_dashboard_client.launch.py
+[2.528s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/ur5e.launch.py
+[2.535s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/ur_control.launch.py
+[2.549s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/ur5.launch.py
+[2.553s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/ur7e.launch.py
+[2.560s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/launch/test_scaled_joint_trajectory_controller.launch.py
+[2.567s] -- Installing: /home/channaveer/Project/install/ur_bringup/lib/ur_bringup/start_ursim.sh
+[2.599s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ament_index/resource_index/package_run_dependencies/ur_bringup
+[2.599s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ament_index/resource_index/parent_prefix_path/ur_bringup
+[2.599s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/environment/ament_prefix_path.sh
+[2.599s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/environment/ament_prefix_path.dsv
+[2.599s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/environment/path.sh
+[2.599s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/environment/path.dsv
+[2.599s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/local_setup.bash
+[2.599s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/local_setup.sh
+[2.599s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/local_setup.zsh
+[2.599s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/local_setup.dsv
+[2.599s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/package.dsv
+[2.601s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ament_index/resource_index/packages/ur_bringup
+[2.601s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig.cmake
+[2.601s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig-version.cmake
+[2.601s] -- Installing: /home/channaveer/Project/install/ur_bringup/share/ur_bringup/package.xml
+[2.673s] Invoked command in '/home/channaveer/Project/build/ur_bringup' returned '0': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble LD_LIBRARY_PATH=/home/channaveer/Project/install/ur_controllers/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/channaveer/Project/build/ur_bringup

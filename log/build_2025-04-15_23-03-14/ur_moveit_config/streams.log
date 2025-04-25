@@ -1,0 +1,77 @@
+[0.096s] Invoking command in '/home/channaveer/Project/build/ur_moveit_config': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake /home/channaveer/Project/src/Universal_Robots_ROS2_Driver/ur_moveit_config -DCMAKE_INSTALL_PREFIX=/home/channaveer/Project/install/ur_moveit_config
+[0.263s] -- The C compiler identification is GNU 11.4.0
+[0.402s] -- The CXX compiler identification is GNU 11.4.0
+[0.416s] -- Detecting C compiler ABI info
+[0.532s] -- Detecting C compiler ABI info - done
+[0.532s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.532s] -- Detecting C compile features
+[0.532s] -- Detecting C compile features - done
+[0.532s] -- Detecting CXX compiler ABI info
+[0.600s] -- Detecting CXX compiler ABI info - done
+[0.605s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.605s] -- Detecting CXX compile features
+[0.605s] -- Detecting CXX compile features - done
+[0.607s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.727s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.220s] -- Configuring done
+[1.232s] -- Generating done
+[1.239s] -- Build files have been written to: /home/channaveer/Project/build/ur_moveit_config
+[1.246s] Invoked command in '/home/channaveer/Project/build/ur_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake /home/channaveer/Project/src/Universal_Robots_ROS2_Driver/ur_moveit_config -DCMAKE_INSTALL_PREFIX=/home/channaveer/Project/install/ur_moveit_config
+[1.246s] Invoking command in '/home/channaveer/Project/build/ur_moveit_config': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake --build /home/channaveer/Project/build/ur_moveit_config -- -j8 -l8
+[1.433s] Built target ament_cmake_python_copy_ur_moveit_config
+[2.212s] running egg_info
+[2.213s] creating ur_moveit_config.egg-info
+[2.213s] writing ur_moveit_config.egg-info/PKG-INFO
+[2.213s] writing dependency_links to ur_moveit_config.egg-info/dependency_links.txt
+[2.213s] writing top-level names to ur_moveit_config.egg-info/top_level.txt
+[2.213s] writing manifest file 'ur_moveit_config.egg-info/SOURCES.txt'
+[2.220s] reading manifest file 'ur_moveit_config.egg-info/SOURCES.txt'
+[2.220s] writing manifest file 'ur_moveit_config.egg-info/SOURCES.txt'
+[2.292s] Built target ament_cmake_python_build_ur_moveit_config_egg
+[2.374s] Invoked command in '/home/channaveer/Project/build/ur_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake --build /home/channaveer/Project/build/ur_moveit_config -- -j8 -l8
+[2.380s] Invoking command in '/home/channaveer/Project/build/ur_moveit_config': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake --install /home/channaveer/Project/build/ur_moveit_config
+[2.418s] -- Install configuration: ""
+[2.418s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/config
+[2.443s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/config/controllers.yaml
+[2.443s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/config/joint_limits.yaml
+[2.444s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/config/kinematics.yaml
+[2.444s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/config/ompl_planning.yaml
+[2.475s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/config/ur_servo.yaml
+[2.475s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/launch
+[2.476s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/launch/ur_moveit.launch.py
+[2.476s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/rviz
+[2.476s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/rviz/view_robot.rviz
+[2.476s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/srdf
+[2.476s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/srdf/ur_macro.srdf.xacro
+[2.594s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/srdf/ur.srdf.xacro
+[2.594s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/environment/pythonpath.sh
+[2.602s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/environment/pythonpath.dsv
+[2.602s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/local/lib/python3.10/dist-packages/ur_moveit_config-2.6.0-py3.10.egg-info
+[2.605s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/local/lib/python3.10/dist-packages/ur_moveit_config-2.6.0-py3.10.egg-info/SOURCES.txt
+[2.605s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/local/lib/python3.10/dist-packages/ur_moveit_config-2.6.0-py3.10.egg-info/dependency_links.txt
+[2.605s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/local/lib/python3.10/dist-packages/ur_moveit_config-2.6.0-py3.10.egg-info/top_level.txt
+[2.605s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/local/lib/python3.10/dist-packages/ur_moveit_config-2.6.0-py3.10.egg-info/PKG-INFO
+[2.607s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/local/lib/python3.10/dist-packages/ur_moveit_config
+[2.607s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/local/lib/python3.10/dist-packages/ur_moveit_config/launch_common.py
+[2.607s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/local/lib/python3.10/dist-packages/ur_moveit_config/__init__.py
+[2.782s] Listing '/home/channaveer/Project/install/ur_moveit_config/local/lib/python3.10/dist-packages/ur_moveit_config'...
+[2.783s] Compiling '/home/channaveer/Project/install/ur_moveit_config/local/lib/python3.10/dist-packages/ur_moveit_config/__init__.py'...
+[2.786s] Compiling '/home/channaveer/Project/install/ur_moveit_config/local/lib/python3.10/dist-packages/ur_moveit_config/launch_common.py'...
+[2.803s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/local/lib/python3.10/dist-packages/launch_common.py
+[2.946s] Compiling '/home/channaveer/Project/install/ur_moveit_config/local/lib/python3.10/dist-packages/launch_common.py'...
+[3.002s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ament_index/resource_index/package_run_dependencies/ur_moveit_config
+[3.002s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ament_index/resource_index/parent_prefix_path/ur_moveit_config
+[3.002s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/environment/ament_prefix_path.sh
+[3.002s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/environment/ament_prefix_path.dsv
+[3.002s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/environment/path.sh
+[3.002s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/environment/path.dsv
+[3.002s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/local_setup.bash
+[3.002s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/local_setup.sh
+[3.002s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/local_setup.zsh
+[3.007s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/local_setup.dsv
+[3.010s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/package.dsv
+[3.019s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ament_index/resource_index/packages/ur_moveit_config
+[3.019s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/cmake/ur_moveit_configConfig.cmake
+[3.019s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/cmake/ur_moveit_configConfig-version.cmake
+[3.019s] -- Installing: /home/channaveer/Project/install/ur_moveit_config/share/ur_moveit_config/package.xml
+[3.102s] Invoked command in '/home/channaveer/Project/build/ur_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake --install /home/channaveer/Project/build/ur_moveit_config

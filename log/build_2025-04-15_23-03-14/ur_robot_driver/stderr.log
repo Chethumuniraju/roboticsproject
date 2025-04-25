@@ -1,0 +1,9 @@
+[0mur_robot_driver: You did not request a specific build type: selecting 'RelWithDebInfo'.[0m
+[01m[K/home/channaveer/Project/src/Universal_Robots_ROS2_Driver/ur_robot_driver/src/dashboard_client_ros.cpp:[m[K In constructor ‘[01m[Kur_robot_driver::DashboardClientROS::DashboardClientROS(const SharedPtr&, const string&)[m[K’:
+[01m[K/home/channaveer/Project/src/Universal_Robots_ROS2_Driver/ur_robot_driver/src/dashboard_client_ros.cpp:55:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass urcl::primary_interface::PrimaryClient[m[K’ has no member named ‘[01m[KgetRobotVersion[m[K’
+   55 |   auto robot_version = primary_client_.[01;31m[KgetRobotVersion[m[K();
+      |                                        [01;31m[K^~~~~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/ur_robot_driver_plugin.dir/build.make:76: CMakeFiles/ur_robot_driver_plugin.dir/src/dashboard_client_ros.cpp.o] Error 1
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[1]: *** [CMakeFiles/Makefile2:150: CMakeFiles/ur_robot_driver_plugin.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

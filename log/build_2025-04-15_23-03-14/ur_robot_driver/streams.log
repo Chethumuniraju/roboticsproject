@@ -1,0 +1,70 @@
+[0.277s] Invoking command in '/home/channaveer/Project/build/ur_robot_driver': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble LD_LIBRARY_PATH=/home/channaveer/Project/install/ur_controllers/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/channaveer/Project/src/Universal_Robots_ROS2_Driver/ur_robot_driver -DCMAKE_INSTALL_PREFIX=/home/channaveer/Project/install/ur_robot_driver
+[0.527s] -- The C compiler identification is GNU 11.4.0
+[0.639s] -- The CXX compiler identification is GNU 11.4.0
+[0.703s] -- Detecting C compiler ABI info
+[0.860s] -- Detecting C compiler ABI info - done
+[0.897s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.897s] -- Detecting C compile features
+[0.897s] -- Detecting C compile features - done
+[0.909s] -- Detecting CXX compiler ABI info
+[1.060s] -- Detecting CXX compiler ABI info - done
+[1.067s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.067s] -- Detecting CXX compile features
+[1.068s] -- Detecting CXX compile features - done
+[1.072s] [0mur_robot_driver: You did not request a specific build type: selecting 'RelWithDebInfo'.[0m
+[1.215s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.563s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.011s] -- Found controller_manager: 2.49.0 (/opt/ros/humble/share/controller_manager/cmake)
+[2.804s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.864s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.018s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.178s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.212s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.921s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.927s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[4.009s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[4.124s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[4.129s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[4.144s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.145s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[4.153s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[4.162s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.207s] -- Looking for pthread.h
+[4.319s] -- Looking for pthread.h - found
+[4.319s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.449s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.451s] -- Found Threads: TRUE  
+[4.626s] -- Found rclpy: 3.3.16 (/opt/ros/humble/share/rclpy/cmake)
+[4.628s] -- Found std_srvs: 4.8.0 (/opt/ros/humble/share/std_srvs/cmake)
+[4.650s] -- Found tf2_geometry_msgs: 0.25.12 (/opt/ros/humble/share/tf2_geometry_msgs/cmake)
+[4.667s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[4.670s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[4.670s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[4.843s] -- Found ur_dashboard_msgs: 2.6.0 (/home/channaveer/Project/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake)
+[4.855s] -- Found ur_msgs: 2.2.0 (/opt/ros/humble/share/ur_msgs/cmake)
+[5.201s] -- Found ur_controllers: 2.6.0 (/home/channaveer/Project/install/ur_controllers/share/ur_controllers/cmake)
+[5.350s] -- Found ur_description: 2.5.0 (/home/channaveer/Project/install/ur_description/share/ur_description/cmake)
+[5.350s] -- Found launch_testing_ament_cmake: 1.0.8 (/opt/ros/humble/share/launch_testing_ament_cmake/cmake)
+[5.352s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[5.368s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[5.372s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[5.373s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.373s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[5.373s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[5.410s] -- Found PythonExtra: .so  
+[5.411s] -- Configuring done
+[5.508s] -- Generating done
+[5.525s] -- Build files have been written to: /home/channaveer/Project/build/ur_robot_driver
+[5.542s] Invoked command in '/home/channaveer/Project/build/ur_robot_driver' returned '0': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble LD_LIBRARY_PATH=/home/channaveer/Project/install/ur_controllers/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/channaveer/Project/src/Universal_Robots_ROS2_Driver/ur_robot_driver -DCMAKE_INSTALL_PREFIX=/home/channaveer/Project/install/ur_robot_driver
+[5.543s] Invoking command in '/home/channaveer/Project/build/ur_robot_driver': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble LD_LIBRARY_PATH=/home/channaveer/Project/install/ur_controllers/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/channaveer/Project/build/ur_robot_driver -- -j8 -l8
+[5.630s] [  5%] [32mBuilding CXX object CMakeFiles/ur_robot_driver_plugin.dir/src/dashboard_client_ros.cpp.o[0m
+[9.409s] [01m[K/home/channaveer/Project/src/Universal_Robots_ROS2_Driver/ur_robot_driver/src/dashboard_client_ros.cpp:[m[K In constructor ‘[01m[Kur_robot_driver::DashboardClientROS::DashboardClientROS(const SharedPtr&, const string&)[m[K’:
+[9.409s] [01m[K/home/channaveer/Project/src/Universal_Robots_ROS2_Driver/ur_robot_driver/src/dashboard_client_ros.cpp:55:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass urcl::primary_interface::PrimaryClient[m[K’ has no member named ‘[01m[KgetRobotVersion[m[K’
+[9.409s]    55 |   auto robot_version = primary_client_.[01;31m[KgetRobotVersion[m[K();
+[9.410s]       |                                        [01;31m[K^~~~~~~~~~~~~~~[m[K
+[9.649s] [ 10%] [32mBuilding CXX object CMakeFiles/ur_robot_driver_plugin.dir/src/hardware_interface.cpp.o[0m
+[13.316s] gmake[2]: *** [CMakeFiles/ur_robot_driver_plugin.dir/build.make:76: CMakeFiles/ur_robot_driver_plugin.dir/src/dashboard_client_ros.cpp.o] Error 1
+[13.316s] gmake[2]: *** Waiting for unfinished jobs....
+[24.558s] gmake[1]: *** [CMakeFiles/Makefile2:150: CMakeFiles/ur_robot_driver_plugin.dir/all] Error 2
+[24.558s] gmake: *** [Makefile:146: all] Error 2
+[24.561s] Invoked command in '/home/channaveer/Project/build/ur_robot_driver' returned '2': AMENT_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/channaveer/Project/install/ur_controllers:/home/channaveer/Project/install/ur_description:/home/channaveer/Project/install/ur_dashboard_msgs:/home/channaveer/Project/install/ur_teleop_config:/home/channaveer/Project/install/ur_moveit_config:/home/channaveer/Project/install/ros2_control_test_assets:/home/channaveer/Project/install/joint_limits:/home/channaveer/Project/install/hardware_interface:/home/channaveer/Project/install/controller_manager_msgs:/home/channaveer/Project/install/ur_keyboard_teleop:/home/channaveer/Project/install/rqt_joint_trajectory_controller:/home/channaveer/Project/install/ros2_controllers_test_nodes:/opt/ros/humble LD_LIBRARY_PATH=/home/channaveer/Project/install/ur_controllers/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/channaveer/Project/build/ur_robot_driver -- -j8 -l8

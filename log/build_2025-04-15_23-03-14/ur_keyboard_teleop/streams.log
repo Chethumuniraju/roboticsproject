@@ -1,0 +1,37 @@
+[1.754s] Invoking command in '/home/channaveer/Project/src/ur_keyboard_teleop': PYTHONPATH=/home/channaveer/Project/build/ur_keyboard_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ur_keyboard_teleop build --build-base /home/channaveer/Project/build/ur_keyboard_teleop/build install --record /home/channaveer/Project/build/ur_keyboard_teleop/install.log --single-version-externally-managed install_data
+[2.253s] running egg_info
+[2.254s] creating ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info
+[2.254s] writing ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/PKG-INFO
+[2.255s] writing dependency_links to ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/dependency_links.txt
+[2.255s] writing entry points to ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/entry_points.txt
+[2.255s] writing requirements to ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/requires.txt
+[2.255s] writing top-level names to ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/top_level.txt
+[2.257s] writing manifest file '../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/SOURCES.txt'
+[2.264s] reading manifest file '../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/SOURCES.txt'
+[2.265s] writing manifest file '../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info/SOURCES.txt'
+[2.265s] running build
+[2.265s] running build_py
+[2.265s] creating /home/channaveer/Project/build/ur_keyboard_teleop/build
+[2.265s] creating /home/channaveer/Project/build/ur_keyboard_teleop/build/lib
+[2.266s] creating /home/channaveer/Project/build/ur_keyboard_teleop/build/lib/ur_keyboard_teleop
+[2.266s] copying ur_keyboard_teleop/__init__.py -> /home/channaveer/Project/build/ur_keyboard_teleop/build/lib/ur_keyboard_teleop
+[2.266s] copying ur_keyboard_teleop/keyboard_command_processor.py -> /home/channaveer/Project/build/ur_keyboard_teleop/build/lib/ur_keyboard_teleop
+[2.266s] running install
+[2.273s] running install_lib
+[2.273s] creating /home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages/ur_keyboard_teleop
+[2.275s] copying /home/channaveer/Project/build/ur_keyboard_teleop/build/lib/ur_keyboard_teleop/__init__.py -> /home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages/ur_keyboard_teleop
+[2.275s] copying /home/channaveer/Project/build/ur_keyboard_teleop/build/lib/ur_keyboard_teleop/keyboard_command_processor.py -> /home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages/ur_keyboard_teleop
+[2.275s] byte-compiling /home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages/ur_keyboard_teleop/__init__.py to __init__.cpython-310.pyc
+[2.275s] byte-compiling /home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages/ur_keyboard_teleop/keyboard_command_processor.py to keyboard_command_processor.cpython-310.pyc
+[2.276s] running install_data
+[2.276s] creating /home/channaveer/Project/install/ur_keyboard_teleop/share/ament_index
+[2.276s] creating /home/channaveer/Project/install/ur_keyboard_teleop/share/ament_index/resource_index
+[2.276s] creating /home/channaveer/Project/install/ur_keyboard_teleop/share/ament_index/resource_index/packages
+[2.276s] copying resource/ur_keyboard_teleop -> /home/channaveer/Project/install/ur_keyboard_teleop/share/ament_index/resource_index/packages
+[2.276s] copying package.xml -> /home/channaveer/Project/install/ur_keyboard_teleop/share/ur_keyboard_teleop
+[2.276s] running install_egg_info
+[2.277s] Copying ../../build/ur_keyboard_teleop/ur_keyboard_teleop.egg-info to /home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages/ur_keyboard_teleop-0.0.1-py3.10.egg-info
+[2.277s] running install_scripts
+[2.329s] Installing keyboard_command_processor script to /home/channaveer/Project/install/ur_keyboard_teleop/lib/ur_keyboard_teleop
+[2.329s] writing list of installed files to '/home/channaveer/Project/build/ur_keyboard_teleop/install.log'
+[2.371s] Invoked command in '/home/channaveer/Project/src/ur_keyboard_teleop' returned '0': PYTHONPATH=/home/channaveer/Project/build/ur_keyboard_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/channaveer/Project/install/ur_keyboard_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ur_keyboard_teleop build --build-base /home/channaveer/Project/build/ur_keyboard_teleop/build install --record /home/channaveer/Project/build/ur_keyboard_teleop/install.log --single-version-externally-managed install_data
